@@ -14,7 +14,7 @@ The ESP32 DevKitC is one of the development board created by Espressif to evalua
 Pin Mapping
 ***********
 
-.. figure:: /custom/img/esp32devkitcpin.png
+.. figure:: /custom/img/esp32devkitcpin.jpg
    :align: center
    :figwidth: 100% 
    :alt: Esp32 DevKitC

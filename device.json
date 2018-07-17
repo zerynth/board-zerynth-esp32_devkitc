@@ -22,6 +22,7 @@
     "type":"board",
     "virtualizable":"Esp32DevKitC",
     "has_alter_ego":false,
+    "flash_erasable": true,
     "uplink_reset": "reset",
     "reset_after_uplink": true,
     "reset_time": 4000,
