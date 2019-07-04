@@ -1,0 +1,14 @@
+---
+description: Add support for Esp32 DevKitC
+fullname: board.zerynth.esp32_devkitc
+info:
+    board: Esp32 DevKitC
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- board
+title: Esp32 DevKitC Support Package
+...
